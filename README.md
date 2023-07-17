@@ -7,11 +7,11 @@ curl -L https://foundry.paradigm.xyz | bash
 foundryup --branch master
 ```
 
-Now that we've summoned `Foundry`, it's time to unlock the secrets of the `Contracts GPT` repository:
+Now that we've summoned `Foundry`, it's time to unlock the secrets of the `Contracts NFT staking` repository:
 
 ```shell
-git clone https://github.com/CryptoGPTorg/contracts-gpt.git
-cd contracts-gpt
+git clone https://github.com/CryptoGPTorg/contracts-NFT-staking.git
+cd contracts-NFT-staking
 npm install
 ```
 
