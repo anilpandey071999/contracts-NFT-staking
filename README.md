@@ -1,4 +1,4 @@
-# 🎩 Contracts CPT: The Magical Adventure 🎩
+# 🎩 Contracts NFT staking: The Magical Adventure 🎩
 Get ready to embark on an enchanting journey through the land of `Contracts GPT`! With our trusty sidekicks, `Hardhat` and `Foundry`, we'll create spellbinding smart contracts that will captivate and delight!
 
 Before we begin, let's call upon the mystical powers of `Foundry` with these incantations in your enchanted terminal:
